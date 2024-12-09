@@ -72,6 +72,9 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con noso
 - Alejandro Rodger: [e.alerodger@go.ugr.es](mailto:e.alerodger@go.ugr.es)
 - Enrique: [e.cgenrique@go.ugr.es](mailto:e.cgenrique@go.ugr.es)
 
+## 🏷️ Versiones
+[v1.0](https://github.com/cgenrique/DiverTareas/releases/tag/v1.0): Primera versión estable.
+
 ---
 
 ✨ **Gracias por tu interés en DiverTareas. ¡Vamos a crear algo increíble juntos!** ✨
