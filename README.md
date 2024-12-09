@@ -73,8 +73,8 @@ Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con noso
 - Enrique: [e.cgenrique@go.ugr.es](mailto:e.cgenrique@go.ugr.es)
 
 ## 🏷️ Versiones
-[v1.0](https://github.com/cgenrique/DiverTareas/releases/tag/v1.0): Primera versión estable.
-[v1.1](https://github.com/cgenrique/DiverTareas/releases/tag/v1.1): Correcciones y mejoras.
+- [v1.0](https://github.com/cgenrique/DiverTareas/releases/tag/v1.0): Primera versión estable.
+- [v1.1](https://github.com/cgenrique/DiverTareas/releases/tag/v1.1): Correcciones y mejoras.
 ---
 
 ✨ **Gracias por tu interés en DiverTareas. ¡Vamos a crear algo increíble juntos!** ✨
